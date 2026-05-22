@@ -1,0 +1,15 @@
+# 環境変数・シークレット
+.env
+*.env
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+*.pyo
+
+# 仮想環境
+.venv/
+venv/
+
+# トークンキャッシュ（念のため）
+*.json
