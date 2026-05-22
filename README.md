@@ -1,6 +1,6 @@
 # Outlook カレンダー MCP サーバー
 
-AX0 から Outlook カレンダーを読み書きする自作MCPサーバー。
+Outlook カレンダーを読み書きする自作MCPサーバー。
 個人Microsoftアカウント（Outlook.com）対応。デバイスコード認証。
 
 ---
